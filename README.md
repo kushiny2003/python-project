@@ -1,1 +1,1 @@
-print("kushi")
+print("sangamesh")
